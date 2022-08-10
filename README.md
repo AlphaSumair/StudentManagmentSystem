@@ -1,2 +1,2 @@
 # StudentManagmentSystem
-Sumair
+This is Dektop Application Build On java.This is Our 2nd Semster Project Based On OOP Concepts And Full Of GUI Base...
